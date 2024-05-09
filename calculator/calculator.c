@@ -8,6 +8,6 @@ int main()
     printf("Input B:");
     scanf("%lf", &b);
     ans = a+b;
-    printf("%.3lf+%.3lf=%.3lf", a, b, ans);
+    printf("%.3lf+%.3lf=%.3lf\n", a, b, ans);
     return 0;
 }
